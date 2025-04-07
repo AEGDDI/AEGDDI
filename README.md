@@ -24,7 +24,7 @@ I played **competitive tennis** for several years and now coach both kids and ad
 ### 🚀 Current project
 
 🔗 [**Suspense in international tournaments**](https://github.com/AEGDDI/tiebreak_wc):  
-Comparing **FIFA vs UEFA tie-breaking criteria** and their effects on group-stage suspense using minute-by-minute data, Elo ratings, and simulations from Euro 1984 to the 2022 World Cup.
+**Comparing FIFA and UEFA** tie-breaking criteria and their effects on group-stage suspense using minute-by-minute data, Elo ratings, and simulations from the UEFA European Championships (1984–2024) and FIFA World Cups (1986–2022).
 
 ---
 
