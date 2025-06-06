@@ -1,6 +1,6 @@
 <img src="https://github.com/AEGDDI/AEGDDI/blob/main/professional.jpg" width="600px" alt="Alessandro Di Mattia">
 
-## Hi there 👋 I'm Alessandro
+## Ciao! I'm Alessandro! 
 
 I'm a researcher in **sports economics** and data science, working on how rules and tournament formats impact fairness, performance, and fan experience — across a wide range of sports including **football, tennis, athletics, beach volleyball, basketball, and esports**.
 
