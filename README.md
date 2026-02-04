@@ -45,7 +45,7 @@ I played **competitive tennis** for several years and now coach both kids and ad
   *European Journal of Operational Research*
 
 - **Di Mattia, A., & Krumer, A.**  
-  [*The effect of reducing the number of matches in round-robin tournaments with four teams: evidence from beach volleyball*]([https://www.researchgate.net/publication/387757234_The_Effect_of_a_Structural_Change_in_Round-Robin_Tournaments_with_Four_Teams_Evidence_from_Beach_Volleyball](https://link.springer.com/article/10.1007/s10479-025-06933-w)).  
+  [*The effect of reducing the number of matches in round-robin tournaments with four teams: evidence from beach volleyball*](https://link.springer.com/article/10.1007/s10479-025-06933-w).  
   *Annals of Operations Research*
 
 - More on [Google Scholar](https://scholar.google.com/citations?user=Y39bRxoAAAAJ&hl=en&oi=ao)
