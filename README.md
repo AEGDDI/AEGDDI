@@ -52,17 +52,11 @@ I played **competitive tennis** for several years and now coach both kids and ad
 
 ---
 
-### 📈 GitHub Stats
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AEGDDI&show_icons=true&theme=tokyonight&hide_title=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AEGDDI&layout=compact&theme=tokyonight) |
-|:--:|:--:|
-
----
 
 ### 📫 Let's connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alessandro-di-mattia/)
 - 🧾 [Google Scholar](https://scholar.google.com/citations?user=Y39bRxoAAAAJ&hl=en&oi=ao)
-- ✉️ Email: **aldi@himolde.no**
+- ✉️ Email: **alessandrodimattia21@gmail.com**
 
 Thanks for dropping by! 😊
