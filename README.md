@@ -29,7 +29,7 @@ I played **competitive tennis** for several years and now coach both kids and ad
 **Comparing FIFA and UEFA** tie-breaking criteria and their effects on group-stage suspense using minute-by-minute data, Elo ratings, and simulations from the UEFA European Championships (1984–2024) and FIFA World Cups (1986–2022).
 
 🔗 [**Roland Garros 2026 — Championship Predictor**](https://github.com/AEGDDI/tennis_analysis):
-  ** 25 years of ATP data · XGBoost · 20,000 Monte Carlo simulations · Streamlit dashboard.
+  **25 years of ATP data · XGBoost · 20,000 Monte Carlo simulations · Streamlit dashboard.
   Estimates championship odds and round-by-round survival probabilities for all 128 players — clay Elo, H2H, form, and live player-state tracking built from scratch.
 ---
 
