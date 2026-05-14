@@ -49,7 +49,7 @@ I played **competitive tennis** for several years and now coach both kids and ad
   [*Fewer teams, more games, larger attendance? Evidence from the structural change in basketball's EuroLeague*](https://www.sciencedirect.com/science/article/pii/S0377221723000024).  
   *European Journal of Operational Research*
 
-- **Di Mattia, A., & Krumer, A.**  
+- **Di Mattia, A., & Krumer, A. (2025)**  
   [*The effect of reducing the number of matches in round-robin tournaments with four teams: evidence from beach volleyball*](https://link.springer.com/article/10.1007/s10479-025-06933-w).  
   *Annals of Operations Research*
 
