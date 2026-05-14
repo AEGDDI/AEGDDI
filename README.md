@@ -32,6 +32,9 @@ I played **competitive tennis** for several years and now coach both kids and ad
   🔗 [**Suspense in international tournaments**](https://github.com/AEGDDI/tiebreak_wc):
   **Comparing FIFA and UEFA** tie-breaking criteria and their effects on group-stage suspense using minute-by-minute data, Elo ratings, and simulations from the UEFA
   European Championships (1984–2024) and FIFA World Cups (1986–2022).
+
+  🔗 [**Homophily in professional tennis**](https://github.com/AEGDDI/tennis-homophily):
+  Studying whether cultural similarity between doubles partners — shared nationality, language, or linguistic proximity predicts match outcomes at Grand Slam tournaments. Using logit regressions on ~1,800 ATP men's doubles matches (2018–2025), linguistic proximity positively predicts match wins but offers no advantage in tiebreaks and is associated with lower comeback rates after losing the first set.
   
 ---
 
