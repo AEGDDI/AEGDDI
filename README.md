@@ -4,13 +4,13 @@
 
 I'm a researcher in **sports economics** and data science, working on how rules and tournament formats impact fairness, performance, and fan experience — across a wide range of sports including **football, tennis, athletics, beach volleyball, basketball, and esports**.
 
-With a strong academic background and hands-on coding skills, I use data to tell stories that connect theory to the field — from the group stages of the World Cup to structural changes in EuroLeague basketball.
+With a strong academic background and data analysis skills, I use data to tell stories that connect theory to the field — from the group stages of the World Cup to structural changes in EuroLeague basketball.
 
 ---
 
 ### 🎾 From the court to the code
 
-I played **competitive tennis** for several years and now coach both kids and adults. That firsthand experience fuels my passion for **analyzing strategic dynamics** and performance in individual and team sports alike.
+I played **competitive tennis** for several years and now coach both kids and adults. That firsthand experience fuels my passion for **analyzing strategic dynamics** and performance in individual and team sports.
 
 ---
 
